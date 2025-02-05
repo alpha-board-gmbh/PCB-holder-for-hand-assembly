@@ -1,11 +1,12 @@
 # 3D printable PCB holder for hand assembly of your electronics projects
-Ever had to hand assemble your own electronics design, printed circuit boards, Arduino shields or something similar, and you were on your own? For tasks like these, one could use a so called helping hand. *Helping Hands* are usually made of metal, have a pinch to fix whatever you need the *helping hand* to hold for you. The pinch can be rotated and there you go. Only, usually, the helping hands get you into trouble: 
+Do you ever assemble by your own hands your own electronics design, printed circuit boards, Arduino shields or something similar, and you were on your own? For tasks like these, one could use a so called helping hand. *Helping Hands* are usually made of metal, have a pinch to fix whatever you need the *helping hand* to hold for you. The pinch can be rotated and there you go. Only, usually, our *helping hands* got us into trouble: 
 
-* they lose their stability
+* they lose their stability, the more so, the bigger your PCBs are
 * they are unable to hold some stuff from the start
 * usually you need more than one
 * it's not easy to use them in certain difficult situations
 * they tend to wiggle and move when you don't like it the least
+* also, as they get older, they tend to hold less and less in a steady way
 
 So we came up with a 3D design so we could print out our own PCB holder. It fasts to your PCB on two sides, so it holds it better and more strictly (which is useful when soldering). You can turn the PCB in different angles and fix it to the choosen angle best fitting your needs.
 
@@ -16,6 +17,8 @@ Our 3D printable *PCB holder* looks like this:
 Putting it all together, it looks like this:
 
 ![Ready to use PCB holder in actual use](https://github.com/user-attachments/assets/7931f703-2e07-441f-8aab-8c4b000c44c8)
+
+![Another view of our pcb holder in action](https://github.com/user-attachments/assets/5f4dd6b0-95e2-4d0e-acc7-f12716e4cfca)
 
 You have these parts to print:
 
