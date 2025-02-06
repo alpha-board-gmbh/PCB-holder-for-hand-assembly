@@ -1,14 +1,16 @@
 # 3D printable PCB holder for hand assembly of your electronics projects
-Do you ever assemble by your own hands your own electronics design, printed circuit boards, Arduino shields or something similar, and you were on your own? For tasks like these, one could use a so called helping hand. *Helping Hands* are usually made of metal, have a pinch to fix whatever you need the *helping hand* to hold for you. The pinch can be rotated and there you go. Only, usually, our *helping hands* got us into trouble: 
+Do you ever assemble by your own hands / solder your own electronics designs, printed circuit boards, Arduino shields or something similar, and you were on your own? No one else around?
 
-* they lose their stability, the more so, the bigger your PCBs are
-* they are unable to hold some stuff from the start
+For tasks like these, one could use a so called helping hand. *Helping Hands* are usually made of metal and have a pinch to fix whatever you need the *helping hand* to hold for you. The pinch can be rotated and there you go. Only, usually, our *helping hands* got us into trouble: 
+
+* they lose their stability, the more so, the bigger and heavier our PCBs were
+* they are unable to hold some of our stuff from the start, actually
 * usually you need more than one
-* it's not easy to use them in certain difficult situations
+* it's not always easy to use them in certain difficult situations
 * they tend to wiggle and move when you don't like it the least
 * also, as they get older, they tend to hold less and less in a steady way
 
-So we came up with a 3D design so we could print out our own PCB holder. It fasts to your PCB on two sides, so it holds it better and more strictly (which is useful when soldering). You can turn the PCB in different angles and fix it to the choosen angle best fitting your needs.
+So we came up with a 3D design so we could print out our own PCB holder. It fasts to your PCB on two sides, so it holds it better and more strictly (which is useful when soldering). You can turn the PCB in different angles and also fix it to the choosen angle best fitting your needs.
 
 Our 3D printable *PCB holder* looks like this:
 
@@ -34,6 +36,6 @@ You have these parts to print:
 
 Print them and then put them together on a wooden board of  35cm X 13cm X 1cm. If you use rails, you could even cut the board in half and lengthen it with rails for bigger projects. Use screws to fix the printed part onto the board.
 
-We suggest using these screws for instance: (will follow, but self-screwing screws are best)
+We suggest using these screws for instance: (specific screws will follow, but self-piercing screws / wood screws are best)
 
 [PCB holder for hand assembly of electronics](https://github.com/alpha-board-gmbh/PCB-holder-for-hand-assembly) © 2024 by [alpha-board gmbh](https://github.com/alpha-board-gmbh) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) 
