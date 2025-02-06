@@ -22,9 +22,15 @@ Putting it all together, it looks like this:
 
 ![Another view of our pcb holder in action](https://github.com/user-attachments/assets/5f4dd6b0-95e2-4d0e-acc7-f12716e4cfca)
 
+
+
+https://github.com/user-attachments/assets/8cdda21c-54b2-46cb-9417-838a44c61760
+
+
+
 You have these parts to print:
 
-- Carrier (1, holding the PCB)
+- Carrier (1)
 - Carrier2 (1, holding the PCB)
 - Screw (1, for fixing it to PCB size)
 - Tipp1 (1)
@@ -34,8 +40,19 @@ You have these parts to print:
 - Fixing Screw (2)
 - Rail (4, if needed)
 
-Print them and then put them together on a wooden board of  35cm X 13cm X 1cm. If you use rails, you could even cut the board in half and lengthen it with rails for bigger projects. Use screws to fix the printed part onto the board.
+**How to put together:**
 
-We suggest using these screws for instance: (specific screws will follow, but self-piercing screws / wood screws are best)
+- Print all parts with your 3D printer
+- put them together on a wooden board of  35cm X 13cm X 1cm
+- if you use rails, you could even cut the board in half and lengthen it with further rails for bigger projects
+- use screws to fix the printed part onto the board
+
+We suggest using these screws for instance: (specific screws will follow, but self-piercing screws / wood screws are best).
+
+In case you have some obstacle where the *PCB holder* touches the PCB, we have two different sort of pinch holders, called Tipp1 and Tipp2. Just turn the PCB around and see if you can hold it the other way around.
+
+![Tipp1](https://github.com/user-attachments/assets/88fbcaad-edb4-42ef-a14a-199c0dff042c)
+
+![Tipp2](https://github.com/user-attachments/assets/527f5a81-7d79-41fa-bcd4-3389fec19f2c)
 
 [PCB holder for hand assembly of electronics](https://github.com/alpha-board-gmbh/PCB-holder-for-hand-assembly) © 2024 by [alpha-board gmbh](https://github.com/alpha-board-gmbh) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) 
