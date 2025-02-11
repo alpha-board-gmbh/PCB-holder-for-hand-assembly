@@ -1,0 +1,6 @@
+All these parts will be screwed onto a 35cm X 13cm X 1cm wooden board, s. >pcb_holder_building_instruction.png< for which part goes where.
+
+You need 12 screws for this. They should be 3mm x 12mm and self-pierching. We suggest screws like these:
+
+https://www.ebay.de/itm/274672775742?_skw=holzschrauben+1+cm&epid=1405038550&itmmeta=01JK8RPWQA3CEBXK1EQZ5DRBTV&hash=item3ff3c5f23e:g:fMgAAOSw1jZgHVzW&itmprp=enc%3AAQAJAAAA0HoV3kP08IDx%2BKZ9MfhVJKn4Sl8u6eAxCMjTgkc2%2Fk4V38U7bh4kED37dTf37VmlAkojfwgk3uWGX9ewG6ecBvIvocYYsP%2F9Gm%2BlMmAkjNjp0mBgM3Y6h%2FTBDGK%2FSSZcfaSA5uyatTfAL%2BNrEWUdLJ%2Fcj6pP%2BqAUdYfXwIQ34IJ4rhbSLUyAHEResYH43GBK5bYx16tw%2B4QhJFZ93Tx3v7WUNSF%2B6tN%2Fhf5d3o9GVR206kTU%2Bc7q0znIf1UOGfHHYFpTvi9habSFdVyCBFy%2BOq0%3D%7Ctkp%3ABk9SR4zM25iaZQ
+	
