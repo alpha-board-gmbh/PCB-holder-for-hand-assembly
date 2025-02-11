@@ -14,7 +14,7 @@ So we came up with a 3D design so we could print out our own PCB holder. It fast
 
 Our 3D printable *PCB holder* looks like this:
 
-![PCB holder in 3D view](https://github.com/user-attachments/assets/1f5c8b05-e2db-4e5b-a2ac-c1a752e47047)
+![pcb_holder_building_instruction](https://github.com/user-attachments/assets/039a3bba-3f47-4785-9e61-9dde8aa1ad46)
 
 Putting it all together, it looks like this:
 
@@ -22,19 +22,15 @@ Putting it all together, it looks like this:
 
 ![Another view of our pcb holder in action](https://github.com/user-attachments/assets/5f4dd6b0-95e2-4d0e-acc7-f12716e4cfca)
 
-
-
-https://github.com/user-attachments/assets/8cdda21c-54b2-46cb-9417-838a44c61760
-
-
+The files to print in 3D printer are in /3D-print-files folder, including info on screws to use etc. The CAD files are in /CAD folder.
 
 You have these parts to print:
 
 - Carrier (1)
-- Carrier2 (1, holding the PCB)
-- Screw (1, for fixing it to PCB size)
-- Tipp1 (1)
-- Tipp2 (1)
+- Carrier2 (1)
+- Screw (1)
+- Tipp1 (2)
+- Tipp2 (2)
 - Spinner (1)
 - Axes (1)
 - Fixing Screw (2)
@@ -47,12 +43,16 @@ You have these parts to print:
 - if you use rails, you could even cut the board in half and lengthen it with further rails for bigger projects
 - use screws to fix the printed part onto the board
 
-We suggest using these screws for instance: (specific screws will follow, but self-piercing screws / wood screws are best).
+We suggest using these screws for instance: (specific screws will follow, but self-piercing screws / wood screws are best, s. 'screws.txt' in folder /3D-print-files).
 
 In case you have some obstacle where the *PCB holder* touches the PCB, we have two different sort of pinch holders, called Tipp1 and Tipp2. Just turn the PCB around and see if you can hold it the other way around.
 
 ![Tipp1](https://github.com/user-attachments/assets/88fbcaad-edb4-42ef-a14a-199c0dff042c)
 
+*Tipp1 for when the borders of your PCB are free of any obstacles*
+
 ![Tipp2](https://github.com/user-attachments/assets/527f5a81-7d79-41fa-bcd4-3389fec19f2c)
+
+*Tipp2 for when there is an obstacle right where you want to hold the PCB*
 
 [PCB holder for hand assembly of electronics](https://github.com/alpha-board-gmbh/PCB-holder-for-hand-assembly) © 2024 by [alpha-board gmbh](https://github.com/alpha-board-gmbh) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) 
