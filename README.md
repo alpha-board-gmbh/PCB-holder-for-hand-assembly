@@ -43,7 +43,17 @@ You have these parts to print:
 - if you use rails, you could even cut the board in half and lengthen it with further rails for bigger projects
 - use screws to fix the printed part onto the board
 
-We suggest using these screws for instance: (specific screws will follow, but self-piercing screws / wood screws are best, s. 'screws.txt' in folder /3D-print-files).
+**Printing instructions:**
+
+- recommended infill density is 20% for Carrier1, Carrier2, Axes, Screw, Spinner, rails
+- recommended infill density is 100% for all other parts
+
+![1](https://github.com/user-attachments/assets/496a7c9c-ddc0-4327-ba5b-231f22ad428f)
+
+![2](https://github.com/user-attachments/assets/cc5c69a9-fba5-49b5-afc1-98e6c59eca52)
+
+We suggest using these screws for instance: (specific screws will follow, but self-piercing screws / wood screws are bes
+t, s. 'screws.txt' in folder /3D-print-files).
 
 In case you have some obstacle where the *PCB holder* touches the PCB, we have two different sort of pinch holders, called Tipp1 and Tipp2. Just turn the PCB around and see if you can hold it the other way around.
 
