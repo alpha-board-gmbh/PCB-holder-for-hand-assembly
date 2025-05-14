@@ -32,12 +32,15 @@ def fetch_data(url):
         return {}
 
 def plot_traffic(views, clones):
-    dates = [v["timestamp"][:10] for v in views["views"]]
+    view_dates = [v["timestamp"][:10] for v in views["views"]]
     view_counts = [v["count"] for v in views["views"]]
+
+    clone_dates = [c["timestamp"][:10] for c in clones["clones"]]
     clone_counts = [c["count"] for c in clones["clones"]]
+
     plt.figure(figsize=(10, 5))
-    plt.plot(dates, view_counts, label="Views", marker="o")
-    plt.plot(dates, clone_counts, label="Clones", marker="x")
+    plt.plot(view_dates, view_counts, label="Views", marker="o")
+    plt.plot(clone_dates, clone_counts, label="Clones", marker="x")
     plt.title("GitHub Traffic")
     plt.xlabel("Date")
     plt.ylabel("Count")
