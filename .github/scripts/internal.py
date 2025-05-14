@@ -24,7 +24,12 @@ auth = (USERNAME, TOKEN)
 
 def fetch_data(url):
     r = requests.get(url, headers=headers, auth=auth)
-    return r.json()
+    try:
+        r.raise_for_status()
+        return r.json()
+    except requests.exceptions.HTTPError as e:
+        print(f"HTTP Error: {r.status_code} - {r.text}")
+        return {}
 
 def plot_traffic(views, clones):
     dates = [v["timestamp"][:10] for v in views["views"]]
@@ -63,6 +68,10 @@ def send_mail(image_path):
 def main():
     views = fetch_data(VIEWS_URL)
     clones = fetch_data(CLONES_URL)
+
+    print("VIEWS:", views)
+    print("CLONES:", clones)
+
     if views and clones:
         plot_path = plot_traffic(views, clones)
         send_mail(plot_path)
